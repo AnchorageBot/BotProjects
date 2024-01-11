@@ -7,6 +7,12 @@ Articles
 
 * [The global project to make a general robotic brain - IEEE Spectrum](https://spectrum.ieee.org/global-robotic-brain)
 
+Languages
+
+* [Julia](https://julialang.org)
+
+* [Python](https://www.python.org)
+
 Opensource Robotics - Github
 
 * [Mathematics for Robotics - UNM Robotics](https://github.com/michiganrobotics/rob501)
