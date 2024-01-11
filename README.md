@@ -12,3 +12,7 @@ Opensource Robotics - Github
 * [Mathematics for Robotics - UNM Robotics](https://github.com/michiganrobotics/rob501)
 
 * [Mobile Robotics - Methods & Algos - UNM Robotics](https://github.com/UMich-CURLY-teaching/UMich-ROB-530-public)
+
+YouTube
+
+* [Discrete Mathematics - Dr. Dominik Scheder](https://youtu.be/UwYJUKVc-Hs?si=xkbkGUcGnyH2cXFo)
