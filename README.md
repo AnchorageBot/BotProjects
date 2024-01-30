@@ -7,6 +7,8 @@ Articles
 
 * [The global project to make a general robotic brain - IEEE Spectrum](https://spectrum.ieee.org/global-robotic-brain)
 
+* [New Theory Suggests Chatbots Can Understand Text - Anil Ananthaswamy - Quanta Magazine](https://www.quantamagazine.org/new-theory-suggests-chatbots-can-understand-text-20240122/)
+
 Languages
 
 * [Julia](https://julialang.org)
