@@ -9,6 +9,8 @@ Articles
 
 * [New Theory Suggests Chatbots Can Understand Text - Anil Ananthaswamy - Quanta Magazine](https://www.quantamagazine.org/new-theory-suggests-chatbots-can-understand-text-20240122/)
 
+* [A New Approach to Computation Reimagines Artificial Intelligence - Anil Ananthaswamy - Quanta Magazine](https://www.quantamagazine.org/a-new-approach-to-computation-reimagines-artificial-intelligence-20230413/)
+
 Languages
 
 * [Julia](https://julialang.org)
