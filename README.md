@@ -19,6 +19,8 @@ Languages
 
 Opensource Robotics - Github
 
+* [Tutorial on Hyperdimensional Computing - Dr Michiel Stock](https://michielstock.github.io/posts/2022/2022-10-04-HDVtutorial/)
+
 * [Mathematics for Robotics - UNM Robotics](https://github.com/michiganrobotics/rob501)
 
 * [Mobile Robotics - Methods & Algos - UNM Robotics](https://github.com/UMich-CURLY-teaching/UMich-ROB-530-public)
