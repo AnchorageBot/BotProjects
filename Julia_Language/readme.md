@@ -17,3 +17,9 @@ Julia Cloud/Online IDE's (Interactive Development Environments)
 * [Google Colab Notebook - Julia_for_Pythonistas.ipynb](https://colab.research.google.com/github/ageron/julia_notebooks/blob/master/Julia_for_Pythonistas.ipynb?authuser=1)
 
 * [Replit](https://replit.com/@logankilpatrick/TryJuliaToday#main.jl)
+
+- - - -
+
+Videos
+
+* [Into to Juia - Firebase](https://youtu.be/JYs_94znYy0?si=3KjPT5V88KZ5Of73)
