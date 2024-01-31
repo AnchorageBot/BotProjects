@@ -4,4 +4,4 @@ Julia is a high-performance, dynamic programming language for modern technical c
 
 The Julia package ecosystem includes best in class packages in a number of ecosystems: Image Processing, Machine Learning, Data Science, Optimization, Parallel computing, Cloud computing, Automatic Differentiation, Graph Processing, Probabilistic Programming, Finite Elements, Computational Biology
 
-Julia YouTube Channel
+[Julia YouTube Channel](www.youtube.com/@TheJuliaLanguage)
