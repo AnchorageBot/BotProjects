@@ -6,6 +6,8 @@ The Julia package ecosystem includes best in class packages in a number of ecosy
 
 [The Julia Programming Language YouTube Channel](www.youtube.com/@TheJuliaLanguage)
 
+- - - - 
+
 IDE's (Interactive Development Environments)
 
 * [Google Colab Notebook - Julia_for_Pythonistas.ipynb]
