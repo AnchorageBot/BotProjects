@@ -10,6 +10,6 @@ The Julia package ecosystem includes best in class packages in a number of ecosy
 
 IDE's (Interactive Development Environments)
 
-* [Google Colab Notebook - Julia_for_Pythonistas.ipynb]
+* [Google Colab Notebook - Julia_for_Pythonistas.ipynb](https://colab.research.google.com/github/ageron/julia_notebooks/blob/master/Julia_for_Pythonistas.ipynb?authuser=1)
 
 * [Replit](https://replit.com/@logankilpatrick/TryJuliaToday#main.jl)
