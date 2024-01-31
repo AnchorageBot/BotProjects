@@ -12,7 +12,7 @@ The Julia package ecosystem includes best in class packages in a number of ecosy
 
 Julia Cloud/Online IDE's (Interactive Development Environments)
 
-* [Binder](https://jupyter.org/binder))
+* [Binder](https://jupyter.org/binder)
 
 * [Google Colab Notebook - Julia_for_Pythonistas.ipynb](https://colab.research.google.com/github/ageron/julia_notebooks/blob/master/Julia_for_Pythonistas.ipynb?authuser=1)
 
