@@ -29,6 +29,6 @@ Papers
 
 * [arXiv Robotics](https://arxiv.org/list/cs.RO/recent)
 
-YouTube
+YouTube Videos
 
 * [Discrete Mathematics - Dr. Dominik Scheder](https://youtu.be/UwYJUKVc-Hs?si=xkbkGUcGnyH2cXFo)
