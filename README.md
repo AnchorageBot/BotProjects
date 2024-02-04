@@ -1,4 +1,4 @@
-# bots
+# Bot Projects
 Scripts for various bot projects
 
 - - - -
