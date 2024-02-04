@@ -18,6 +18,8 @@ Julia Cloud/Online IDE's (Interactive Development Environments)
 
 * [Replit](https://replit.com/@logankilpatrick/TryJuliaToday#main.jl)
 
+* [VS Code](https://vscode.dev)
+
 - - - -
 
 Videos
