@@ -1,5 +1,5 @@
 # Bot Projects
-Scripts for various bot projects
+This github repository holds references for, and scripts resulting from, various bot projects
 
 - - - -
 
