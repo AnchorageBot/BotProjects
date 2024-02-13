@@ -31,6 +31,6 @@ Papers
 
 YouTube Videos
 
-* [Kevin McAleer}(www.youtube.com/@kevinmcaleer28)
+* [Kevin McAleer](www.youtube.com/@kevinmcaleer28)
 
 * [Discrete Mathematics - Dr. Dominik Scheder](https://youtu.be/UwYJUKVc-Hs?si=xkbkGUcGnyH2cXFo)
