@@ -29,6 +29,10 @@ Papers
 
 * [arXiv Robotics](https://arxiv.org/list/cs.RO/recent)
 
+[Software Agents](https://en.m.wikipedia.org/wiki/Software_agent)
+
+* Frameworks with: agents, tasks, & tools
+
 YouTube Videos
 
 * [Kevin McAleer](www.youtube.com/@kevinmcaleer28)
